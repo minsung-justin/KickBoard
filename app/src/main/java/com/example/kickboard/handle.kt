@@ -1,5 +1,5 @@
 package com.example.kickboard
 
 fun handle(){
-    // 둥근핸들
+    // 끝이 휜 핸들
 }
