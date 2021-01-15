@@ -1,5 +1,5 @@
 package com.example.kickboard
 
 fun motor(){
-// 저전력 모터
+// 가성비 모터
 }
