@@ -6,6 +6,7 @@ fun frame(){
     안장()
     계기판()
     충전지()
+    라이트()
     accel()
     bell()
     brake()
